@@ -1,0 +1,16 @@
+{
+    "name": "Inventory.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e5430a06d4e42f9498fdcd3f9d3f64fb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
