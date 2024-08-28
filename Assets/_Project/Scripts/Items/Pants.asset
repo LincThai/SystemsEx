@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b40aab32adf5fa74aaeac6c0c98c81e8, type: 3}
   m_Name: Pants
   m_EditorClassIdentifier: 
-  itemName: 
+  itemName: Pants
   description: 
   outlineGradient:
     serializedVersion: 2
-    key0: {r: 1, g: 1, b: 1, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 1}
+    key0: {r: 0.30851555, g: 0.26165894, b: 0.5283019, a: 1}
+    key1: {r: 0.35506406, g: 0.8286163, b: 0.9528302, a: 1}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
@@ -52,15 +52,15 @@ MonoBehaviour:
   weight: 1
   baseCost: 1
   selectionSound:
-    m_AssetGUID: 
+    m_AssetGUID: a2e7174666d1f7a4ba3a4e6c1951428a
     m_SubObjectName: 
     m_SubObjectType: 
-    m_EditorAssetChanged: 0
+    m_EditorAssetChanged: 1
   usingSound:
     m_AssetGUID: 
     m_SubObjectName: 
     m_SubObjectType: 
-    m_EditorAssetChanged: 0
+    m_EditorAssetChanged: 1
   properties: []
   durability: 50
   defense: 10

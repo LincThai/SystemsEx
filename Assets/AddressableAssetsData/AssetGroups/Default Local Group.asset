@@ -16,7 +16,32 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 162a2bd141df0ce4b926b73bb8743b01
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 64d827a1d8d561041843dc4b23afeb77
+    m_Address: snd_skeletonKey_hover
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2e7174666d1f7a4ba3a4e6c1951428a
+    m_Address: snd_pants_hover
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4df83f91a49a3d942b637272891008a6
+    m_Address: snd_sword_hover
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30da6166bbd0cfc478b91329697e659e
+    m_Address: snd_applepie_use
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7cd8b9033bb52f49a158bae706694cd
+    m_Address: snd_shield_hover
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 8dac725e86dfe964bbd6ea8cc5a24a22, type: 2}
   m_SchemaSet:

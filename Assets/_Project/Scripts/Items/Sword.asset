@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d06a44396324c22499c242776f887a37, type: 3}
   m_Name: Sword
   m_EditorClassIdentifier: 
-  itemName: 
+  itemName: Sword
   description: 
   outlineGradient:
     serializedVersion: 2
-    key0: {r: 1, g: 1, b: 1, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 1}
+    key0: {r: 0.35471708, g: 0, b: 0.6415094, a: 1}
+    key1: {r: 1, g: 0.023584902, b: 0.023584902, a: 1}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
@@ -52,7 +52,7 @@ MonoBehaviour:
   weight: 1
   baseCost: 1
   selectionSound:
-    m_AssetGUID: 
+    m_AssetGUID: 4df83f91a49a3d942b637272891008a6
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0

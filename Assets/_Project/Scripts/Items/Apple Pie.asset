@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af19676159c100f4aa6674994dc397f8, type: 3}
   m_Name: Apple Pie
   m_EditorClassIdentifier: 
-  itemName: 
+  itemName: Apple Pie
   description: 
   outlineGradient:
     serializedVersion: 2
-    key0: {r: 1, g: 1, b: 1, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 1}
+    key0: {r: 1, g: 0.08363296, b: 0, a: 1}
+    key1: {r: 0.8584906, g: 0.6321475, b: 0.028346404, a: 1}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
@@ -55,9 +55,9 @@ MonoBehaviour:
     m_AssetGUID: 
     m_SubObjectName: 
     m_SubObjectType: 
-    m_EditorAssetChanged: 0
+    m_EditorAssetChanged: 1
   usingSound:
-    m_AssetGUID: 
+    m_AssetGUID: 30da6166bbd0cfc478b91329697e659e
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0

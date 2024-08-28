@@ -6,8 +6,16 @@ namespace CreativeCoding.PlayerSystem
 {
     public class PlayerController : MonoBehaviour
     {
+        public static PlayerController instance {  get; private set; }
+
         [Header("Inventory")]
         [SerializeField] private Inventory inventory;
+        public Inventory Inventory => inventory;
+
+        private void Awake()
+        {
+            instance = this;
+        }
 
         private void Start()
         {

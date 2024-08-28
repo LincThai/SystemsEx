@@ -44,6 +44,12 @@ namespace CreativeCoding.InventorySystem
         }
 
         [ContextMenu("Update Inventory")]
+
+        private void UpdateIventory()
+        {
+            UpdateInventory(PlayerController.instance.Inventory);
+        }
+
         public void UpdateInventory(Inventory inventory)
         {
             hideEvent?.Invoke();

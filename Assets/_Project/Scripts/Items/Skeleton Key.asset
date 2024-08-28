@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff77c8a2cd36bb24788bdeb0ca4465cc, type: 3}
   m_Name: Skeleton Key
   m_EditorClassIdentifier: 
-  itemName: 
+  itemName: Skeleton Key
   description: 
   outlineGradient:
     serializedVersion: 2
     key0: {r: 1, g: 1, b: 1, a: 1}
-    key1: {r: 1, g: 1, b: 1, a: 1}
+    key1: {r: 0, g: 0, b: 0, a: 1}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
@@ -52,7 +52,7 @@ MonoBehaviour:
   weight: 1
   baseCost: 1
   selectionSound:
-    m_AssetGUID: 
+    m_AssetGUID: 64d827a1d8d561041843dc4b23afeb77
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
