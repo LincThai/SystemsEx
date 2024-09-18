@@ -12,6 +12,7 @@ namespace CreativeCoding.InventorySystem
         public string description;
         public Gradient outlineGradient;
         public AssetReferenceT<Sprite> thumbnail;
+        public AssetReferenceT<GameObject> itemMesh;
         public float weight = 1;
         public uint baseCost = 1;
         public AssetReferenceT<AudioClip> selectionSound;

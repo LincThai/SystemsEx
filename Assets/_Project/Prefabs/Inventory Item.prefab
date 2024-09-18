@@ -129,6 +129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentItem: {fileID: 0}
+  mainButton: {fileID: 1429838772106456145}
   quantityText: {fileID: 7531379635391770183}
   itemImage: {fileID: 3869761060731346881}
 --- !u!222 &2185465888639513035

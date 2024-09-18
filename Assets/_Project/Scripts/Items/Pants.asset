@@ -49,6 +49,11 @@ MonoBehaviour:
     m_SubObjectName: 
     m_SubObjectType: 
     m_EditorAssetChanged: 0
+  itemMesh:
+    m_AssetGUID: bc00f66e91a95c548877b2808571df78
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
   weight: 1
   baseCost: 1
   selectionSound:

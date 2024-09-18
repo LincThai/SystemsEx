@@ -42,6 +42,16 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc00f66e91a95c548877b2808571df78
+    m_Address: PantsItemVariant
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01bc2fdef8b135446abf4e8a1686b7ab
+    m_Address: KeyItemVariant
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 8dac725e86dfe964bbd6ea8cc5a24a22, type: 2}
   m_SchemaSet:
